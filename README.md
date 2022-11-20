@@ -1,5 +1,5 @@
 # If-you-trust-it
-"If you trust it" is student project point and click story driven horror game written in Java and implements JPanel as a core functionality of the game
+"If you trust it" is student project point and click story driven horror game written in Java and implements Frame as a core functionality of the game
 
 # Features
 - This program contains option setting in which you can use Slider to increase or decrease volume

@@ -3,7 +3,6 @@
 
 # Features
 - This program contains option setting in which you can use Slider to increase or decrease volume
-- This program contains Tutorials for user to guide on how to play the game/use the program
 - This program contains Mini games in which user are advised to answer the question accordingly
 
 # Files
